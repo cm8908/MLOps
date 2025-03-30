@@ -15,6 +15,6 @@ jobs:
   - name: Lint
     run: |
       make lint
-  -name: Test
+  - name: Test
     run: |
       make test
